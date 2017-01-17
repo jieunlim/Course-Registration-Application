@@ -3,14 +3,16 @@
 
 ##Background
 
-    I created library application with GUI. There are two types of books in this application.
-    General Book and Text Book. For the Text Book, it has edition information.
-    Using this application, user can track, update the book's status.
+
+    I created Course Registration application with JAVA, SQL, HTML, CSS. 
+    User can see registered course, lists of courses and students.
+    Also, with this application user can register courses for students.
+    
 
 
 ##Objective
 
-*     Practice C# and GUI with Microsoft Visual Studio
+     Practice C# and GUI with Microsoft Visual Studio
 
 ## Video Walkthrough 
-<img src='http://i.imgur.com/plkUwiq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/4om52La.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
