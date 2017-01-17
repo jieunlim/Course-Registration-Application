@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<html>
+    <head>
+        <title>Enrollment List</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type ="text/css" href ="servlet.css" />
+    </head>
+    <body>
+         <form ACTION="List" METHOD="POST">
+            <h2>Enrollment List</h2>
+             <fieldset id="info" style = "width:100px;">
+                <legend > Enrollment Info: </legend>
+                <label for="snum"> Student No: </label> <INPUT id= "snum" type=text size=20 name="snum" value=""> <br>
+                <label for="sem"> Semester: </label> 
+                <select id= "sem" name="sem">
+                    <option selected disabled>  Choose here  </option>
+                    <option> Fall </option>
+                    <option> Spring </option>
+                    <option> Summer </option>
+                
+                </select>
+                <br>
+                <label for="y"> Year: </label> <br>
+                <select id= "y" name="y">
+                    <option selected disabled>  Choose here  </option>
+                    <option>2015</option>
+                    <option>2016</option>
+                    <option>2017</option>
+                    
+                </select> <br>    
+                
+                <br>    
+                <INPUT TYPE="submit" VALUE="List"> 
+                <INPUT TYPE ="submit" formaction="index.html" value="Main Menu">
+            </fieldset>
+        </form>
+    </body>
+</html>
