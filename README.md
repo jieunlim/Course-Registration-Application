@@ -1,7 +1,7 @@
 # Course-Registration-Application
 
 
-##Background
+## Background
 
 
     I created Course Registration application with JAVA, SQL, HTML, CSS. 
@@ -10,7 +10,7 @@
     
 
 
-##Objective
+## Objective
 
      Practice C# and GUI with Microsoft Visual Studio
 
